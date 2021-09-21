@@ -10,3 +10,4 @@ This repository is a mapping of the Trenggalek Regency which consists of each di
 | ------------- | ------------- |
 | 3503010       | Panggul       |
 | 3503020       | Munjungan     |
+| 3503030       | Watulimo      |
