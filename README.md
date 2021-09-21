@@ -9,3 +9,4 @@ This repository is a mapping of the Trenggalek Regency which consists of each di
 | District Code | District Name |
 | ------------- | ------------- |
 | 3503010       | Panggul       |
+| 3503020       | Munjungan     |
