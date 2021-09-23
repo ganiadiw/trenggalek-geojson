@@ -6,8 +6,8 @@ This repository is a mapping of the Trenggalek Regency which consists of each di
 
 ### List of Available GeoJSON
 
-| District Code | District Name |
-| ------------- | ------------- |
-| 3503010       | Panggul       |
-| 3503020       | Munjungan     |
-| 3503030       | Watulimo      |
+| District Code | District Name | Link to Geojson File |
+| ------------- | ------------- | -------------------- |
+| 3503010       | Panggul       | [GeoJSON Link](3503010/3503010.geojson) |
+| 3503020       | Munjungan     | [GeoJSON Link](3503020/3503020.geojson) |
+| 3503030       | Watulimo      | [GeoJSON Link](3503030/3503030.geojson) |
