@@ -4,6 +4,10 @@
 
 This repository is a mapping of the Trenggalek Regency which consists of each district. The mapping form is in GeoJSON format.
 
+### Coution
+
+This GeoJSON map does not represent the coordinates of the district boundaries in detail and precision. This GeoJSON map only represents an overview of the shape of each district. This GeoJSON map can be used for geographic or other information systems, but it is not recommended to represent district boundaries
+
 ### List of Available GeoJSON
 
 | District Code | District Name | Link to Geojson File |
