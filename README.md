@@ -16,7 +16,8 @@ This GeoJSON map does not represent the coordinates of the district boundaries i
 | 3503020       | Munjungan     | [GeoJSON Link](3503020/3503020.geojson) |
 | 3503030       | Watulimo      | [GeoJSON Link](3503030/3503030.geojson) |
 | 3503040       | Kampak        | [GeoJSON Link](3503040/3503040.geojson) |
-| 3503040       | Dongko        | [GeoJSON Link](3503050/3503050.geojson) |
+| 3503050       | Dongko        | [GeoJSON Link](3503050/3503050.geojson) |
+| 3503060       | Pule          | [GeoJSON Link](3503060/3503060.geojson) |
 
 ## Contributing
 
