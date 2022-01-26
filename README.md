@@ -18,6 +18,7 @@ This GeoJSON map does not represent the coordinates of the district boundaries i
 | 3503040       | Kampak        | [GeoJSON Link](3503040/3503040.geojson) |
 | 3503050       | Dongko        | [GeoJSON Link](3503050/3503050.geojson) |
 | 3503060       | Pule          | [GeoJSON Link](3503060/3503060.geojson) |
+| 3503090       | Durenan       | [GeoJSON Link](3503090/3503090.geojson) |
 | 3503130       | Bendungan     | [GeoJSON Link](3503130/3503130.geojson) |
 
 ## Contributing
