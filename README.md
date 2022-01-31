@@ -22,6 +22,7 @@ This GeoJSON map does not represent the coordinates of the district boundaries i
 | 3503090       | Durenan       | [GeoJSON Link](3503090/3503090.geojson) |
 | 3503100       | Pogalan       | [GeoJSON Link](3503100/3503100.geojson) |
 | 3503110       | Trenggalek    | [GeoJSON Link](3503110/3503110.geojson) |
+| 3503120       | Tugu          | [GeoJSON Link](3503120/3503120.geojson) |
 | 3503130       | Bendungan     | [GeoJSON Link](3503130/3503130.geojson) |
 
 ## Contributing
