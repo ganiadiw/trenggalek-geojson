@@ -1,7 +1,5 @@
 # GeoJSON Regency of Trenggalek
 
-![](https://img.shields.io/badge/Project%20Status-Under%20Development-orange)
-
 This repository is a mapping of the Trenggalek Regency which consists of each district. The mapping form is in GeoJSON format.
 
 ## ⚠️ Caution !!!
