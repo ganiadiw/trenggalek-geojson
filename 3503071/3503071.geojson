@@ -3,7 +3,9 @@
     "features": [
         {
             "type": "Feature",
-            "properties": {},
+            "properties": {
+                "name": "KECAMATAN SURUH"
+            },
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
