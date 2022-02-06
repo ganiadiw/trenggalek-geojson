@@ -8,6 +8,14 @@ This GeoJSON map does not represent the coordinates of the district boundaries i
 
 ## List of Available GeoJSON
 
+### Main Map
+
+| Regency Code | Regency Name | Link to Geojson File|
+| ------------ | ------------ | ---------------------------- |
+| 3503         | Trenggalek   | [GeoJSON Link](3503.geojson) |
+
+### Districts Maps
+
 | District Code | District Name | Link to Geojson File |
 | ------------- | ------------- | -------------------- |
 | 3503010       | Panggul       | [GeoJSON Link](3503010/3503010.geojson) |
